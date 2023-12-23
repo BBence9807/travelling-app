@@ -34,3 +34,11 @@
 
 
 ## System architecture diagram
+![System Architecture](images/system_architecture.png)
+
+
+## Database schema diagram
+![Database schema](images/database_schema.png)
+
+## Entities UML diagram
+![Entities UML diagram](images/entities_uml.png)
