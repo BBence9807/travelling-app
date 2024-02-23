@@ -31,6 +31,7 @@
 
 ## Modules
 - [Travelling Rest API](https://github.com/BBence9807/travelling-app-api)
+- [Travelling Auth Server](https://github.com/BBence9807/travelling-app-auth)
 
 
 ## System architecture diagram
